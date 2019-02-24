@@ -2,8 +2,7 @@
 
 ;; Copyright (C) 2019  Mikhail Pontus
 
-;; Author: Mikhail Pontus <m.pontus@gmail.com>
-;; Package-Requires: ((emacs "25") (request "0.3.0"))
+;; Author: Michael Pontus <m.pontus@gmail.com>
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by

@@ -2,8 +2,7 @@
 
 ;; Copyright (C) 2019  Mikhail Pontus
 
-;; Author: Mikhail Pontus(require 'org) <michael@Mac-mini-Mikhail.local>
-;; Keywords: 
+;; Author: Michael Pontus <m.pontus@gmail.com>
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by

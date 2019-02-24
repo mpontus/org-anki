@@ -1,9 +1,9 @@
 ;;; org-anki.el --- Export notes stored in ORG files as Anki decks  -*- lexical-binding: t; -*-
 
-;; Copyright (C) 2019  Mikhail Pontus
+;; Copyright (C) 2019  Michael
 
-;; Author: Mikhail Pontus(require 'org-anki-frontend) <michael@Mac-mini-Mikhail.local>
-;; Keywords: 
+;; Author: Michael Pontus <m.pontus@gmail.com>
+;; Package-Requires: ((emacs "25") (request "0.3.0"))
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
