@@ -27,7 +27,9 @@
 (require 'org-anki-frontend)
 (require 'org-anki-backend)
 
+;;;###autoload
 (defun org-anki-sync ()
+  "Export org notes as anki deck using anki-connect."
   (interactive)
   (org-anki-frontend 'org-anki-backend))
 
